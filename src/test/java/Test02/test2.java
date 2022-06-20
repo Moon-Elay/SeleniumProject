@@ -7,5 +7,6 @@ public class test2 {
         System.out.println(str);
 
         System.out.println("-----------");
+        System.out.println("============");
     }
 }
