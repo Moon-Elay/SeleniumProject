@@ -5,5 +5,7 @@ public class test2 {
 
         String str = "Go Home";
         System.out.println(str);
+
+        System.out.println("-----------");
     }
 }
